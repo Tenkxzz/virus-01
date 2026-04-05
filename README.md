@@ -3,8 +3,8 @@
 ## 📞 Contact Developer
 
 <p align="center">
-  <a href="https://t.me/Tenkxzz">
-    <img src="https://img.shields.io/badge/Chat%20on%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a&color=0088cc"
+  <a href="[https://t.me/Tenkxzz](https://t.me/+BOEX1CPXQiNiZDE1)">
+    <img src="https://img.shields.io/badge/channel%20on%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a&color=0088cc"
          style="height:40px; margin:4px;"/>
   </a>
   <a href="https://www.instagram.com/_hex404?igsh=c2FwNWU2dTloOHY3">

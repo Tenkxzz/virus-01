@@ -1,7 +1,5 @@
 # virus "you are an idiot" by Tenkz 
 
--
-
 ## 📞 Contact Developer
 
 <p align="center">
